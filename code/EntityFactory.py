@@ -1,5 +1,5 @@
-from code.Background import Background
-from code.Const import WIN_WIDTH
+from Background import Background
+from Const import WIN_WIDTH
 
 
 class EntityFactory:

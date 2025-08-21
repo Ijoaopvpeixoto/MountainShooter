@@ -1,6 +1,6 @@
 import pygame.key
 from Entity import Entity
-from code.Const import ENTITY_SPEED, ENTITY_SHOT_DELAY
+from Const import ENTITY_SPEED, ENTITY_SHOT_DELAY
 
 
 class Player(Entity):
